@@ -1,0 +1,4 @@
+Archive:  kb.zip
+Zip file size: 1496 bytes, number of entries: 1
+-rw-a--     2.0 fat     1037 t- defN 97-Feb-12 22:34 KB.PAS
+1 file, 1037 bytes uncompressed, 450 bytes compressed:  56.6%
