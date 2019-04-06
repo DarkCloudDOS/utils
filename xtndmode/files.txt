@@ -1,0 +1,6 @@
+Archive:  xtndmode.zip
+Zip file size: 4635 bytes, number of entries: 3
+-rw-a--     2.0 fat    12668 t- defN 97-Jul-29 11:50 XTNDMODE.PAS
+-rw-a--     2.0 fat     1813 t- defN 97-Jul-28 13:07 DEMO.PAS
+-r--a--     2.0 fat      938 t- defN 96-Oct-18 11:33 READ.ME!
+3 files, 15419 bytes uncompressed, 3393 bytes compressed:  78.0%
