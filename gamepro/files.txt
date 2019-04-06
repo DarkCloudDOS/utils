@@ -1,0 +1,4 @@
+Archive:  gamepro.zip
+Zip file size: 4417 bytes, number of entries: 1
+-rw-a--     2.0 fat    11198 t- defN 97-Feb-08 00:34 GAMEPRO.PAS
+1 file, 11198 bytes uncompressed, 3361 bytes compressed:  70.0%
