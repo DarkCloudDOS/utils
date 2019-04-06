@@ -1,0 +1,6 @@
+Archive:  mcga.zip
+Zip file size: 3840 bytes, number of entries: 3
+-rw-a--     2.0 fat     7236 t- defN 97-Jul-28 13:15 MCGAMODE.PAS
+-rw-a--     2.0 fat      938 t- defN 96-Oct-18 11:33 READ.ME!
+-rw-a--     2.0 fat      884 t- defN 97-Aug-01 00:31 MCGAMODE.DOC
+3 files, 9058 bytes uncompressed, 2590 bytes compressed:  71.4%
